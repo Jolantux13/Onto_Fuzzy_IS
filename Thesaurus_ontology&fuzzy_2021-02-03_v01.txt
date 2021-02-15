@@ -1,0 +1,156 @@
+label	replace by
+abc	Artificial Bee Colony Optimization
+aco	Ant Colony Optimization
+action	
+account	
+Agent service description language	ASDL
+agent-based fuzzy cognitive map	ABFCM
+ai	artificial intelligence
+artificial neural network	ANN
+addition	
+advantage	
+answer	
+attention	
+algorithm	
+analysis	
+application	
+approach	
+area	
+article	
+aspect	
+basis	
+better result	
+building	
+case	
+computer	
+core	
+content	
+content management system	CMS
+class	
+cfs	conceptual fuzzy set
+challenge	
+chapter	
+description	
+difficulty	
+dss	decision support system
+effect	
+effectiveness	efficiency
+error	
+example	
+extent	
+fact	
+FDL	fuzzy description logic
+fca	formal concept analysis
+fuzzy cognitive maps	fuzzy cognitive map
+fuzzy theory	fuzzy set theory
+FCMs	Fuzzy cognitive map
+field	
+form	
+food	
+function	
+DL	description logic
+demand	
+domain expert	expert
+Internet of Things	IoT
+fuzzy DL	fuzzy description logic
+fuzzy domain ontology	fuzzy ontology
+fml	fuzzy markup language
+ga	genetic algorithm
+goal	
+gene	
+key	
+kind	
+hand	
+high level	
+huge number	
+human	person
+http	
+idea	
+internet	
+increase	
+important	
+important problem	
+important role	
+in order	
+interest	
+index	
+issue	
+item	
+lack	
+last decade	
+large number	
+literature	
+limitation	
+lot	
+lots	
+motivation	
+mechanism	
+mean	
+model	
+modeling	modelling
+module	
+multi-agent system	MAS
+nature	
+number	
+new method	
+need	
+novel approach	
+ontology	
+ontology web language	OWL
+overview	
+order	
+paper	
+paradigm	
+proposed system	
+procedure	
+principle	
+part	
+process	
+proposal	
+problem	
+point	
+reason	
+recent year	
+recall	
+reference	
+relation	relationship
+representation	
+research	
+respect	
+review	
+role	
+RDF Query Language	SPARQL
+scheme	
+sequence	
+set	
+semantic web technology	semantic web
+situation	
+system	
+stage	
+state	
+study	
+step	
+strategy	
+success	
+solution	
+task	
+technique	
+technology	
+theory	
+thing	
+today	
+type	
+tool	
+top	
+tsk model	takagi sugeno kang
+tsk	takagi sugeno kang
+use	
+understanding	
+value	
+variety	
+year	
+way	
+web page	web
+work	
+world wide web	www
+world	
